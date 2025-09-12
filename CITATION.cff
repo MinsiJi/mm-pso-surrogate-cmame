@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "MM-PSO based parameter selection for compressed-gas launch systems (code & experiments)"
+authors:
+  - family-names: "<Your Surname>"
+    given-names: "<Your Given Names>"
+    orcid: "<Optional ORCID, e.g., 0000-0000-0000-0000>"
+version: "1.0.0"
+date-released: "2025-09-12"
+repository-code: "<add GitHub repo URL after you create it>"
+doi: "<add Zenodo DOI after archiving the release>"
+preferred-citation:
+  type: article
+  title: "Hybrid surrogate-accelerated MM-PSO for high-dimensional constrained design"
+  authors:
+    - family-names: "<Your Surname>"
+      given-names: "<Your Given Names>"
+  year: 2025
+  journal: "Computer Methods in Applied Mechanics and Engineering"
+  doi: "<paper DOI after acceptance>"
